@@ -1,102 +1,177 @@
 [
       {
-		"name": "Amoled Orbs",
-		"author": "Rishi Bafna",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Amoled%20Orbs.png"
+		"name": "Amber",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber.png"
 	},
       {
-		"name": "Amoled Teal",
-		"author": "Rishi Bafna",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Amoled%20Teal.png"
+		"name": "Aurora",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Aurora.png"
 	},
 	{
-		"name": "Soothing Blue",
-		"author": "Rishi Bafna",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Soothing%20Blue.png"
+		"name": "Beach",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Beach.png"
 	},
 	{
-		"author": "Rishi Bafna",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Soothing%20Pink.png",
-		"name": "Soothing Pink"
+		"name": "Blue",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blue.png"
 	},
 	{
-		"name": "Soothing Violet",
-		"author": "Rishi Bafna",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Soothing%20Violet.png"
+		"name": "Candy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Candy.png"
+	},
+	{
+		"name": "Cheese",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cheese.png"
+	},
+	{
+		"name": "Cream",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cream.png"
+	},
+	{
+		"name": "Elixir 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Elixir%202.png"
+	},
+	{
+		"name": "Elixir",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Elixir.png"
+	},
+	{
+		"name": "Ethereal",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ethereal.png"
+	},
+	{
+		"name": "Flames",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flames.png"
+	},
+	{
+		"name": "Glacier",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glacier.png"
+	},
+	{
+		"name": "Glassy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glassy.png"
+	},
+	{
+		"name": "Gold",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gold.png"
+	},
+	{
+		"name": "Grass",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Grass.png"
+	},
+	{
+		"name": "Honey",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Honey.png"
+	},
+	{
+		"name": "Incandescence",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Incandescence.png"
+	},
+	{
+		"name": "Lagoon",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lagoon.png"
+	},
+	{
+		"name": "Liquid",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Liquid.png"
+	},
+	{
+		"name": "Luminous",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Luminous.png"
+	},
+	{
+		"name": "Moraine",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Moraine.png"
+	},
+	{
+		"name": "Nebula",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Nebula.png"
+	},
+	{
+		"name": "Night",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Night.png"
+	},
+	{
+		"name": "Ocean",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ocean.png"
+	},
+	{
+		"name": "Opulent",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Opulent.png"
+	},
+	{
+		"name": "Paint",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Paint.png"
+	},
+	{
+		"name": "Peachy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Peachy.png"
+	},
+	{
+		"name": "Radiance",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Radiance.png"
+	},
+	{
+		"name": "Ripple",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ripple.png"
+	},
+	{
+		"name": "Sand",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sand.png"
+	},
+	{
+		"name": "Space",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Space.png"
+	},
+	{
+		"name": "Sunrise",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sunrise.png"
+	},
+	{
+		"name": "Sunset",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sunset.png"
+	},
+	{
+		"name": "Tranquil",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Tranquil.png"
 	},
 	{
 		"name": "Waves",
-		"author": "Rishi Bafna",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Waves.png"
-	},
-	{
-		"name": "patternnew1",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew1.png"
-	},
-	{
-		"name": "patternnew2",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew2.png"
-	},
-	{
-		"name": "patternnew3",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew3.png"
-	},
-	{
-		"name": "patternnew4",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew4.png"
-	},
-	{
-		"name": "patternnew5",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew5.png"
-	},
-	{
-		"name": "patternnew6",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew6.png"
-	},
-	{
-		"name": "patternnew7",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew7.png"
-	},
-	{
-		"name": "patternnew8",
-		"author": "Saurav Katiyar",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/patternnew8.png"
-	},
-	{
-		"name": "Architecture",
-		"author": "Anthony Delanoix",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Architecture.jpg"
-	},
-	{
-		"name": "Blue Texture",
-		"author": "Pawel Czerwinski",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Blue%20Texture.jpg"
-	},
-	{
-		"name": "Fluid paint",
-		"author": "Pawel Czerwinski",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Fluid%20paint.jpg"
-	},
-	{
-		"name": "Marble",
-		"author": "Pawel Czerwinski",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Marble.jpg"
-	},
-	{
-		"name": "Leaves",
-		"author": "Daniel Spase",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Leaves.jpg"
-	},
-	{
-		"name": "Fog",
-		"author": "Eberhard Grossgasteiger",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Nebula-walls/master/Fog.jpg"
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Waves.png"
 	}
 ]
