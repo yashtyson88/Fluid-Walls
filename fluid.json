@@ -2,167 +2,207 @@
       {
 		"name": "Amber",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber.png",
+	        "copyright": "Personal Use"
 	},
       {
 		"name": "Aurora",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Aurora.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Aurora.png",
+	        "copyright": "Personal Use",
+	        "collections":"Texture"
 	},
 	{
 		"name": "Beach",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Beach.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Beach.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
 	},
 	{
 		"name": "Blue",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blue.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blue.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
 	},
 	{
 		"name": "Candy",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Candy.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Candy.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Cheese",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cheese.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cheese.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Cream",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cream.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cream.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Elixir 2",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Elixir%202.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Elixir%202.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Elixir",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Elixir.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Elixir.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Ethereal",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ethereal.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ethereal.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Flames",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flames.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flames.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
 	},
 	{
 		"name": "Glacier",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glacier.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glacier.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Glassy",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glassy.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glassy.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Gold",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gold.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gold.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Grass",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Grass.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Grass.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Honey",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Honey.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Honey.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Incandescence",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Incandescence.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Incandescence.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Lagoon",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lagoon.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lagoon.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Liquid",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Liquid.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Liquid.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Luminous",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Luminous.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Luminous.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Moraine",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Moraine.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Moraine.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
 	},
 	{
 		"name": "Nebula",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Nebula.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Nebula.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Night",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Night.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Night.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Ocean",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ocean.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ocean.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Opulent",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Opulent.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Opulent.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Paint",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Paint.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Paint.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Peachy",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Peachy.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Peachy.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Radiance",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Radiance.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Radiance.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Ripple",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ripple.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ripple.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
 	},
 	{
 		"name": "Sand",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sand.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sand.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
 	},
 	{
 		"name": "Space",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Space.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Space.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Sunrise",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sunrise.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sunrise.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Sunset",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sunset.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sunset.png",
+		"copyright": "Personal Use"
 	},
 	{
 		"name": "Tranquil",
