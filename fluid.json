@@ -233,11 +233,15 @@
 	{
 		"name": "Tranquil",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Tranquil.png"
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Tranquil.png",
+		"copyright": "Personal Use",
+		"collections":"All,Liquid"
 	},
 	{
 		"name": "Waves",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Waves.png"
+		"copyright": "Personal Use",
+		"collections":"All,Liquid"
 	}
 ]
