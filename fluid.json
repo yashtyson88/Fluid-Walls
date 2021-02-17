@@ -14,34 +14,6 @@
 	        "collections":"Texture"
 	},
 	{
-		"name": "Beach",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Beach.png",
-		"copyright": "Personal Use",
-	        "collections":"Texture"
-	},
-	{
-		"name": "Blue",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blue.png",
-		"copyright": "Personal Use",
-	        "collections":"Texture"
-	},
-	{
-		"name": "Candy",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Candy.png",
-		"copyright": "Personal Use",
-		"collections":"Liquid"
-	},
-	{
-		"name": "Cheese",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cheese.png",
-		"copyright": "Personal Use",
-		"collections":"Liquid"
-	},
-	{
 		"name": "Cream",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cream.png",
@@ -101,6 +73,34 @@
 		"name": "Grass",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Grass.png",
+		"copyright": "Personal Use",
+		"collections":"Liquid"
+	},
+	{
+		"name": "Beach",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Beach.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
+	},
+	{
+		"name": "Blue",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blue.png",
+		"copyright": "Personal Use",
+	        "collections":"Texture"
+	},
+	{
+		"name": "Candy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Candy.png",
+		"copyright": "Personal Use",
+		"collections":"Liquid"
+	},
+	{
+		"name": "Cheese",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cheese.png",
 		"copyright": "Personal Use",
 		"collections":"Liquid"
 	},
