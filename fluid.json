@@ -1,5 +1,61 @@
 [
       {
+		"name": "Algae",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Algae.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/AlgaeThumb.png",
+	        "collections":"Liquid"
+	},
+      {
+		"name": "Bubblegum",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bubblegum.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BubblegumThumb.png",
+	        "collections":"Liquid"
+	},
+	{
+		"name": "Jelly",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Jelly.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/JellyThumb.png",
+	        "collections":"Texture"
+	},
+	{
+		"name": "Vapor",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Vapor.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VaporThumb.png",
+	        "collections":"Liquid"
+	},
+      {
+		"name": "Vapor 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Vapor%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Vapour%202Thumb.png",
+	        "collections":"Liquid"
+	},
+	{
+		"name": "Vapor Desaturate",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Vapor%20Desaturate.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Vapour%20DesaturateThumb.png",
+	        "collections":"Liquid"
+	},
+	{
+		"name": "Liquid 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Liquid%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Liquid%202Thumb.png",
+	        "collections":"Liquid"
+	},
+      {
 		"name": "Amber",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber.png",
