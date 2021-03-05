@@ -1,4 +1,52 @@
 [
+	{
+		"name": "Molten",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Molten.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MoltenThumb.png",
+	        "collections":"Liquid"
+	},
+{
+		"name": "Velvet",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Velvet.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VelvetThumb.png",
+	        "collections":"Liquid"
+	},
+{
+		"name": "Purple Curtain",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Curtain.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20CurtainThumb.png",
+	        "collections":"Liquid"
+	},
+{
+		"name": "Flux",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flux.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FluxThumb.png",
+	        "collections":"Texture"
+	},
+{
+		"name": "Almond",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Almond.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/AlmondThumb.png",
+	        "collections":"Liquid"
+	},
+{
+		"name": "Solar",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Solar.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SolarThumb.png",
+	        "collections":"Texture"
+	},
       {
 		"name": "Algae",
 		"author": "Yash",
