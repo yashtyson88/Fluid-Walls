@@ -1,5 +1,45 @@
 [
 	{
+		"name": "Gold Leaf",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gold%20Leaf.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Gold%20LeafThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Surf",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Surf.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SurfThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Candyfloss",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Candyfloss.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CandyflossThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Bronze",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bronze.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BronzeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Pearl",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pearl.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PearlThumb.png",
+	        "collections":"Texture"
+	},
+        {
 		"name": "Molten",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Molten.png",
@@ -7,7 +47,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MoltenThumb.png",
 	        "collections":"Liquid"
 	},
-{
+        {
 		"name": "Velvet",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Velvet.png",
@@ -15,7 +55,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VelvetThumb.png",
 	        "collections":"Liquid"
 	},
-{
+        {
 		"name": "Purple Curtain",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Curtain.png",
@@ -23,7 +63,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20CurtainThumb.png",
 	        "collections":"Liquid"
 	},
-{
+        {
 		"name": "Flux",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flux.png",
@@ -31,7 +71,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FluxThumb.png",
 	        "collections":"Texture"
 	},
-{
+        {
 		"name": "Almond",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Almond.png",
@@ -39,7 +79,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/AlmondThumb.png",
 	        "collections":"Liquid"
 	},
-{
+        {
 		"name": "Solar",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Solar.png",
@@ -47,7 +87,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SolarThumb.png",
 	        "collections":"Texture"
 	},
-      {
+        {
 		"name": "Algae",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Algae.png",
@@ -55,7 +95,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/AlgaeThumb.png",
 	        "collections":"Liquid"
 	},
-      {
+        {
 		"name": "Bubblegum",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bubblegum.png",
@@ -79,7 +119,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VaporThumb.png",
 	        "collections":"Liquid"
 	},
-      {
+        {
 		"name": "Vapor 2",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Vapor%202.png",
@@ -103,7 +143,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Liquid%202Thumb.png",
 	        "collections":"Liquid"
 	},
-      {
+        {
 		"name": "Amber",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber.png",
@@ -111,7 +151,7 @@
 	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/AmberThumb.png",
 	        "collections":"Liquid"
 	},
-      {
+        {
 		"name": "Aurora",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Aurora.png",
