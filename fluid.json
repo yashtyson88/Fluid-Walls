@@ -1,5 +1,45 @@
 [
 	{
+		"name": "Interstellar",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Interstellar.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/InterstellarThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Caramel",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Caramel.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CaramelThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Silk",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Silk.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SilkThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Serene",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Serene.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SereneThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Interstellar Grunge",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Interstellar%20Grunge.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Interstellar%20GrungeThumb.png",
+	        "collections":"Liquid"
+	},
+	{
 		"name": "Gold Leaf",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gold%20Leaf.png",
