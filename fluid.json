@@ -1,5 +1,37 @@
 [
 	{
+		"name": "Banoffee",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Banoffee.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BanoffeeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Electric Blue",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Electric%20Blue.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Electric%20BlueThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Melting Point",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Melting%20Point.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Melting%20PointThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Purple Fog",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Fog.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20FogThumb.png",
+	        "collections":"Liquid"
+	},
+	{
 		"name": "Blurry Beach",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blurry%20Beach.png",
