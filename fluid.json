@@ -1,5 +1,53 @@
 [
 	{
+		"name": "Oil Spill",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Oil%20Spill.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Oil%20SpillThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Zing",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Zing.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ZingThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Tangerine",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Tangerine.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/TangerineThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Bubbles",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bubbles.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BubblesThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Bubbles 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bubbles%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Bubbles%202Thumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Fondant",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Fondant.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FondantThumb.png",
+	        "collections":"Liquid"
+	},
+	{
 		"name": "Banoffee",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Banoffee.png",
