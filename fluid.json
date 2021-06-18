@@ -1,4 +1,36 @@
 [
+        {
+		"name": "Jelly Fish",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Jelly%20Fish.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Jelly%20FishThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Red Velvet",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Red%20Velvet.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Red%20VelvetThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Diffusion",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Diffusion.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DiffusionThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Horizon",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Horizon.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/HorizonThumb.png",
+	        "collections":"Liquid"
+	},	
 	{
 		"name": "Oil Spill",
 		"author": "Yash",
