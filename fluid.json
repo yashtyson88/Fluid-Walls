@@ -1,4 +1,60 @@
 [
+	{
+		"name": "Dunes",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Dunes.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DunesThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Spotlight",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Spotlight.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SpotlightThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Core",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Core.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CoreThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Dark Matter",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Dark%20Matter.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Dark%20MatterThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Layers",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Layers.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LayersThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Cosmos",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cosmos.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CosmosThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Aqua",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Aqua.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/AquaThumb.png",
+	        "collections":"Liquid"
+	},
         {
 		"name": "Jelly Fish",
 		"author": "Yash",
