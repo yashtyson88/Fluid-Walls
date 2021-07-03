@@ -1,5 +1,53 @@
 [
 	{
+		"name": "Flare",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flare.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FlareThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Northern Lights",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Northern%20Lights.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Northern%20LightsThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Selene",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Selene.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SeleneThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Mountain Ranges",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Mountain%20Ranges.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Mountain%20RangesThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Neon",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Neon.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/NeonThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Plum",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Plum.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PlumThumb.png",
+	        "collections":"Liquid"
+	},
+	{
 		"name": "Dunes",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Dunes.png",
