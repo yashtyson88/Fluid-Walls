@@ -1,4 +1,52 @@
 [
+        {
+		"name": "Canyon",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Canyon.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CanyonThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Galactic",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Galactic.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/GalacticThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Kyaneos",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Kyaneos.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/KyaneosThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Liquid Gold",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Liquid%20Gold.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Liquid%20GoldThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Orchid",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Orchid.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/OrchidThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Hurley",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Hurley.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/HurleyThumb.png",
+	        "collections":"Texture"
+	},	
 	{
 		"name": "Flare",
 		"author": "Yash",
