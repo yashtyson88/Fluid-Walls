@@ -1,4 +1,36 @@
 [
+	{
+		"name": "Blueberry",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blueberry.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BlueberryThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Copper",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Copper.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CopperThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Spotlight 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Spotlight%202.jpg",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Spotlight%202Thumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Kaleidoscope",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Kaleidoscope.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/KaleidoscopeThumb.png",
+	        "collections":"Texture"
+	},
         {
 		"name": "Canyon",
 		"author": "Yash",
