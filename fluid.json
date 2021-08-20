@@ -1,5 +1,29 @@
 [
 	{
+		"name": "Bloom",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bloom.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BloomThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Heatwave",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Heatwave.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/HeatwaveThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Sea Urchin",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sea%20Urchin.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Sea%20UrchinThumb.png",
+	        "collections":"Liquid"
+	},
+	{
 		"name": "Nautilus",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Nautilus.png",
