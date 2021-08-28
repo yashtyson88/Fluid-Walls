@@ -1,5 +1,45 @@
 [
 	{
+		"name": "Stellar",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Stellar.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/StellarThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Blue Valley",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blue%20Valley.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Blue%20ValleyThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Blackcurrant",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blackcurrant.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BlackcurrantThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Supernova",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Supernova.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SupernovaThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Supernova 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Supernova%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Supernova%202Thumb.png",
+	        "collections":"Texture"
+	},
+	{
 		"name": "Bloom",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bloom.png",
