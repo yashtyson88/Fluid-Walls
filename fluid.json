@@ -1,5 +1,29 @@
 [
 	{
+		"name": "Desert",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Desert.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DesertThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Polygon Madness",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Polygon%20Madness.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Polygon%20MadnessThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Sheen",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sheen.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SheenThumb.png",
+	        "collections":"Liquid"
+	},
+	{
 		"name": "Stellar",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Stellar.png",
