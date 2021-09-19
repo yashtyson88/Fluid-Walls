@@ -1,4 +1,36 @@
 [
+        {
+		"name": "Gorge",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gorge.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/GorgeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Midnight",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Midnight.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MidnightThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Delta",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Delta.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DeltaThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Sakura",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sakura.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SakuraThumb.png",
+	        "collections":"Liquid"
+	},
 	{
 		"name": "Desert",
 		"author": "Yash",
