@@ -1,5 +1,37 @@
 [
         {
+		"name": "Varnish",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Varnish.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VarnishThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Confluence",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Confluence.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ConfluenceThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Cosmos 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cosmos%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Cosmos%202Thumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Varnish 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Varnish%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Varnish%202Thumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Gorge",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gorge.png",
