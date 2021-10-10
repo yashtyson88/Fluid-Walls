@@ -1,4 +1,60 @@
 [
+	{
+		"name": "Fur 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Fur%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Fur%202Thumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Fur",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Fur.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FurThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Ultraviolet",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ultraviolet.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/UltravioletThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Sunshine",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sunshine.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SunshineThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Raspberry Blast",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Raspberry%20Blast.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Raspberry%20BlastThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Polygonl Mountains",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Polygonl%20Mountains.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Polygonl%20MountainsThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Swirl",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Swirl.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SwirlThumb.png",
+	        "collections":"Liquid"
+	},
         {
 		"name": "Varnish",
 		"author": "Yash",
