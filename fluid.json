@@ -1,28 +1,4 @@
 [
-        {
-		"name": "Confetti",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Confetti.png",
-	        "copyright": "Personal Use",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ConfettiThumb.png",
-	        "collections":"Liquid"
-	},
-        {
-		"name": "Textured Water",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Textured%20Water.png",
-	        "copyright": "Personal Use",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Textured%20WaterThumb.png",
-	        "collections":"Texture"
-	},
-        {
-		"name": "Purple Fog",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Fog.png",
-	        "copyright": "Personal Use",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20FogThumb.png",
-	        "collections":"Liquid"
-	},
 	{
 		"name": "Fur 2",
 		"author": "Yash",
