@@ -16,12 +16,13 @@
 	        "collections":"Texture"
 	},
         {
-		"name": "Purple Fog",
+		"name": "Purple Smog",
 		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Fog.png",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Smog.png",
 	        "copyright": "Personal Use",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20FogThumb.png",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20SmogThumb.png",
 	        "collections":"Liquid"
+	},
 	{
 		"name": "Fur 2",
 		"author": "Yash",
