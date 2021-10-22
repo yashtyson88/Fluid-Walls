@@ -1,5 +1,45 @@
 [
         {
+		"name": "Neon Mountain",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Neon%20Mountain.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Neon%20MountainThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Dusk",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Dusk.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DuskThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Whisps",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Whisps.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/WhispsThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Orange Mess",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Orange%20Mess.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Orange%20MessThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Dark Fantasy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Dark%20Fantasy.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Dark%20FantasyThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Confetti",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Confetti.png",
