@@ -1,5 +1,37 @@
 [
         {
+		"name": "Glowing Beach",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glowing%20Beach.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Glowing%20BeachThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Copper Sky",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Copper%20Sky.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Copper%20SkyThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Queen's Necklace",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Queen's%20Necklace.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Queen's%20NecklaceThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Electric Flame",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Electric%20Flame.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Electric%20FlameThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Neon Mountain",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Neon%20Mountain.png",
