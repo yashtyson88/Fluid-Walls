@@ -1,5 +1,29 @@
 [
         {
+		"name": "Dark Aqua",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Dark%20Aqua.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Dark%20AquaThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Collagen",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Collagen.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CollagenThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Sea Coral",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sea%20Coral.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Sea%20CoralThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Glowing Beach",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glowing%20Beach.png",
