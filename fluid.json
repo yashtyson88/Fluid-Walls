@@ -1,4 +1,20 @@
 [
+         {
+		"name": "Electric Discharge",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Electric%20Discharge.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Electric%20DischargeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Sparky",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sparky.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SparkyThumb.png",
+	        "collections":"Texture"
+	},
         {
 		"name": "Dark Aqua",
 		"author": "Yash",
