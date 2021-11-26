@@ -1,4 +1,36 @@
 [
+        {
+		"name": "Daybreak 2",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Daybreak%202.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Daybreak%202Thumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Pink Slide",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pink%20Slide.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Pink%20SlideThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Arch",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Arch.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ArchThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Daybreak",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Daybreak.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DaybreakThumb.png",
+	        "collections":"Liquid"
+	},
          {
 		"name": "Electric Discharge",
 		"author": "Yash",
