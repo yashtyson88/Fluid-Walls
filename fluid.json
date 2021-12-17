@@ -1,4 +1,44 @@
 [
+	        {
+		"name": "Mountain Layers",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Mountain%20Layers.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Mountain%20LayersThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Golden Hour",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Golden%20Hour.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Golden%20HourThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Pearlescent",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pearlescent.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PearlescentThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Mountain Layers Desaturate",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Mountain%20Layers%20Desaturate.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Mountain%20Layers%20DesaturateThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Drape",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Drape.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DrapeThumb.png",
+	        "collections":"Liquid"
+	},
         {
 		"name": "Daybreak 2",
 		"author": "Yash",
