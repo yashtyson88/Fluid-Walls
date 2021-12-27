@@ -1,4 +1,36 @@
 [
+        {
+		"name": "Biscoff",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Biscoff.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BiscoffThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Fine Wine",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Fine%20Wine.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Fine%20WineThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Broadstroke",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Broadstroke.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BroadstrokeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Petals",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Petals.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PetalsThumb.png",
+	        "collections":"Liquid"
+	},
 	        {
 		"name": "Mountain Layers",
 		"author": "Yash",
