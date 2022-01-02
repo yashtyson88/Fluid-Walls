@@ -1,4 +1,20 @@
 [
+         {
+		"name": "Folds",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Folds.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FoldsThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Neon Lights",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Neon%20Lights.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Neon%20LightsThumb.png",
+	        "collections":"Liquid"
+	},
         {
 		"name": "Biscoff",
 		"author": "Yash",
