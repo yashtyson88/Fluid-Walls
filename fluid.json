@@ -1,5 +1,37 @@
 [
          {
+		"name": "Interstellar Nebula",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Interstellar%20Nebula.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Interstellar%20NebulaThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Raging Fire",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Raging%20Fire.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Raging%20FireThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Interstellar Sunrise",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Interstellar%20Sunrise.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Interstellar%20SunriseThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Velvet Drapes",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Velvet%20Drapes.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Velvet%20DrapesThumb.png",
+	        "collections":"Liquid"
+	},
+         {
 		"name": "Folds",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Folds.png",
