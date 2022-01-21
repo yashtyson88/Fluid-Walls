@@ -1,5 +1,37 @@
 [
          {
+		"name": "Galaxy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Galaxy.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/GalaxyThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Rosewater",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Rosewater.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/RosewaterThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Gold Mine",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Gold%20Mine.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Gold%20MineThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Pink Lava",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pink%20Lava.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Pink%20LavaThumb.png",
+	        "collections":"Liquid"
+	},
+         {
 		"name": "Interstellar Nebula",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Interstellar%20Nebula.png",
