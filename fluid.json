@@ -1,4 +1,36 @@
 [
+        {
+		"name": "Purple Smoke",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Smoke.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20SmokeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Salted Caramel",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Salted%20Caramel.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Salted%20CaramelThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Rainbow",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Rainbow.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/RainbowThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Shimmer",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Shimmer.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ShimmerThumb.png",
+	        "collections":"Liquid"
+	},
          {
 		"name": "Galaxy",
 		"author": "Yash",
