@@ -1,4 +1,36 @@
 [
+	{
+		"name": "Pulsar",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pulsar.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PulsarThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Golden Fall",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Golden%20Fall.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Golden%20FallThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Lightning",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lightning.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LightningThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Purple Magic",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Magic.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20MagicThumb.png",
+	        "collections":"Liquid"
+	},
         {
 		"name": "Purple Smoke",
 		"author": "Yash",
