@@ -1,4 +1,36 @@
 [
+        {
+		"name": "Wine",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Wine.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/WineThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Sand Dune",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sand%20Dune.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Sand%20DuneThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Breeze",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Breeze.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BreezeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Cold",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cold.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ColdThumb.png",
+	        "collections":"Liquid"
+	},
 	{
 		"name": "Pulsar",
 		"author": "Yash",
