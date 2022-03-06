@@ -1,5 +1,29 @@
 [
         {
+		"name": "Flamy Waves",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flamy%20Waves.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Flamy%20WavesThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Neon Zing",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Neon%20Zing.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Neon%20ZingThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Oceania",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Oceania.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/OceaniaThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Wine",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Wine.png",
