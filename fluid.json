@@ -1,5 +1,37 @@
 [
         {
+		"name": "Hyper Burn",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Hyper%20Burn.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Hyper%20BurnThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Pink Blast",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pink%20Blast.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Pink%20BlastThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Oil Paint",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Oil%20Paint.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Oil%20PaintThumb.png",
+	        "collections":"Liquid"
+	},
+    {
+		"name": "Neon Green",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Neon%20Green.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Neon%20GreenThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Flamy Waves",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Flamy%20Waves.png",
