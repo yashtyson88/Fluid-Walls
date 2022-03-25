@@ -1,5 +1,29 @@
 [
         {
+		"name": "Red Diamond",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Red%20Diamond.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Red%20DiamondThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Cheesecake",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cheesecake.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CheesecakeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Rose",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Rose.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/RoseThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Hyper Burn",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Hyper%20Burn.png",
