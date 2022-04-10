@@ -1,5 +1,21 @@
 [
         {
+		"name": "Seaweed",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Seaweed.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SeaweedThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Desert Safari",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Desert%20Safari.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Desert%20SafariThumb.png",
+	        "collections":"Texture"
+	},
+        {
 		"name": "Red Diamond",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Red%20Diamond.png",
