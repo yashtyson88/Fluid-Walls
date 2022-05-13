@@ -1,5 +1,37 @@
 [
         {
+		"name": "Bubblewrap",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bubblewrap.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BubblewrapThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Layered",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Layered.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LayeredThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Pearly",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pearly.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PearlyThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Colorful Mist",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Colorful%20Mist.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Colorful%20MistThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Tide",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Tide.png",
