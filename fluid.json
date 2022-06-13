@@ -1,5 +1,21 @@
 [
         {
+		"name": "Void",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Void.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VoidThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Fade",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Fade.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FadeThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Bubblewrap",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bubblewrap.png",
