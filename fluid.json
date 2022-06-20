@@ -1,5 +1,21 @@
 [
         {
+		"name": "Ripple Effect",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Ripple%20Effect.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Ripple%20EffectThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Toasty",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Toasty.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ToastyThumb.png",
+	        "collections":"Liquid"
+	},
+        {
 		"name": "Void",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Void.png",
