@@ -1,4 +1,20 @@
 [
+       {
+		"name": "Molten Lava",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Molten%20Lava.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Molten%20LavaThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Splash",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Splash.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SplashThumb.png",
+	        "collections":"Texture"
+	},
         {
 		"name": "Ripple Effect",
 		"author": "Yash",
