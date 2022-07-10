@@ -1,4 +1,28 @@
 [
+	{
+		"name": "Marble",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Marble.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MarbleThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Misty",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Misty.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MistyThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Shards",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Shards.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ShardsThumb.png",
+	        "collections":"Texture"
+	},
        {
 		"name": "Molten Lava",
 		"author": "Yash",
