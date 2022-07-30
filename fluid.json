@@ -1,4 +1,20 @@
 [
+{
+		"name": "Frost",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Frost.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FrostThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Saucy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Saucy.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SaucyThumb.png",
+	        "collections":"Liquid"
+	},
 	{
 		"name": "Marble",
 		"author": "Yash",
