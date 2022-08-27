@@ -1,4 +1,20 @@
 [
+	      {
+		"name": "Syrup",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Syrup.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SyrupThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Pearly",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pearly.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PearlyThumb.png",
+	        "collections":"Liquid"
+	},
 {
 		"name": "Frost",
 		"author": "Yash",
