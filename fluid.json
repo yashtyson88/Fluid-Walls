@@ -1,4 +1,28 @@
 [
+	        {
+		"name": "Bonbon",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bonbon.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BonbonThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Shoreline",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Shoreline.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ShorelineThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Toffee",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Toffee.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ToffeeThumb.png",
+	        "collections":"Liquid"
+	},
 	      {
 		"name": "Syrup",
 		"author": "Yash",
