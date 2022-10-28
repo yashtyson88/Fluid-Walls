@@ -1,5 +1,29 @@
 [
 	        {
+		"name": "Orange Marble",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Orange%20Marble.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Orange%20MarbleThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Fungi",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Fungi.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FungiThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Purple Sand",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Purple%20Sand.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Purple%20SandThumb.png",
+	        "collections":"Liquid"
+	},
+	        {
 		"name": "Bonbon",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bonbon.png",
