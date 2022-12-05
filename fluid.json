@@ -1,5 +1,29 @@
 [
 	        {
+		"name": "Almond Cream",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Almond%20Cream.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Almond%20CreamThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Storm",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Storm.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/StormThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Leather",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Leather.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LeatherThumb.png",
+	        "collections":"Texture"
+	},
+	        {
 		"name": "Orange Marble",
 		"author": "Yash",
 		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Orange%20Marble.png",
