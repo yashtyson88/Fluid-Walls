@@ -1,4 +1,20 @@
 [
+	   {
+		"name": "Frosting",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Frosting.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FrostingThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Jam",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Jam.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/JamThumb.png",
+	        "collections":"Liquid"
+	},
 	        {
 		"name": "Almond Cream",
 		"author": "Yash",
