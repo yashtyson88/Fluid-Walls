@@ -1,4 +1,28 @@
 [
+	  {
+		"name": "Aurora Borealis",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Aurora%20Borealis.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Aurora%20BorealisThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Folded Curtains",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Folded%20Curtains.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Folded%20CurtainsThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Blotting",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blotting.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BlottingThumb.png",
+	        "collections":"Texture"
+	},
 	   {
 		"name": "Frosting",
 		"author": "Yash",
