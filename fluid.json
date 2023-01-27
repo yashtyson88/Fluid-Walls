@@ -1,4 +1,28 @@
 [
+	        {
+		"name": "Creamy Caramel",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Creamy%20Caramel.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Creamy%20CaramelThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Snow",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Snow.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SnowThumb.png",
+	        "collections":"Texture"
+	},
+        {
+		"name": "Diffused Light",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Diffused%20Light.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Diffused%20LightThumb.png",
+	        "collections":"Liquid"
+	},
 	  {
 		"name": "Aurora Borealis",
 		"author": "Yash",
