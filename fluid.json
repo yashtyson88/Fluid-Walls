@@ -1,4 +1,20 @@
 [
+	   {
+		"name": "Blizzard",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blizzard.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BlizzardThumb.png",
+	        "collections":"Liquid"
+	},
+        {
+		"name": "Sandy",
+		"author": "Yash",
+		"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sandy.png",
+	        "copyright": "Personal Use",
+	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SandyThumb.png",
+	        "collections":"Liquid"
+	},
 	        {
 		"name": "Creamy Caramel",
 		"author": "Yash",
