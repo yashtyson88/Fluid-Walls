@@ -1,4 +1,36 @@
 [
+	  {
+	"name": "Cloudy",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cloudy.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CloudyThumb.png",
+	"collections":"Texture"
+	},
+  {
+	"name": "Bubbly",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Bubbly.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/BubblyThumb.png",
+	"collections":"Abstract"
+	},
+  {
+	"name": "Feather",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Feather.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/FeatherThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Grungy",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Grungy.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/GrungyThumb.png",
+	"collections":"Texture"
+	},
 	   {
 		"name": "Blizzard",
 		"author": "Yash",
