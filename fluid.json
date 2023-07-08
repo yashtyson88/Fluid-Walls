@@ -1,5 +1,37 @@
 [
 	  {
+	"name": "Blurry Glass",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blurry%20Glass.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Blurry%20GlassThumb.png",
+	"collections":"Texture"
+	},
+  {
+	"name": "Netting",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Netting.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/NettingThumb.png",
+	"collections":"Abstract"
+	},
+  {
+	"name": "Swirly",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Swirly.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SwirlyThumb.png",
+	"collections":"Abstract"
+	},
+  {
+	"name": "Tinted Glass",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Tinted%20Glass.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Tinted%20GlassThumb.png",
+	"collections":"Texture"
+	},
+	  {
 	"name": "Blooming",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blooming.png",
