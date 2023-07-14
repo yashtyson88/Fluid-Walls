@@ -1,5 +1,37 @@
 [
 	  {
+	"name": "Crystal",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Crystal.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CrystalThumb.png",
+	"collections":"Texture"
+	},
+  {
+	"name": "Velvety",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Velvety.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VelvetyThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Mountains",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Mountains.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MountainsThumb.png",
+	"collections":"Abstract"
+	},
+  {
+	"name": "Shimmery",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Shimmery.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/ShimmeryThumb.png",
+	"collections":"Liquid"
+	},
+	  {
 	"name": "Blurry Glass",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Blurry%20Glass.png",
