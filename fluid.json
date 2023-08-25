@@ -1,4 +1,28 @@
 [
+	{
+	"name": "Crystalline",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Crystalline.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CrystallineThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Terrain",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Terrain.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/TerrainThumb.png",
+	"collections":"Texture"
+	},
+  {
+	"name": "Desertwave",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Desertwave.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DesertwaveThumb.png",
+	"collections":"Liquid"
+	},
 	  {
 	"name": "Coil",
 	"author": "Yash",
