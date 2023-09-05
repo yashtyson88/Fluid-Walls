@@ -1,4 +1,44 @@
 [
+	  {
+	"name": "Draped",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Draped.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/DrapedThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Lustre",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lustre.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LustreThumb.png",
+	"collections":"Abstract"
+	},
+  {
+	"name": "Mysterious",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Mysterious.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MysteriousThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Pastel",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pastel.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PastelThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Lavender Bliss",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lavender%20Bliss.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Lavender%20BlissThumb.png",
+	"collections":"Liquid"
+	},
 	{
 	"name": "Crystalline",
 	"author": "Yash",
