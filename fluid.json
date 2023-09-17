@@ -1,4 +1,36 @@
 [
+  {
+	"name": "Glimmer",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Glimmer.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/GlimmerThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Nature",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Nature.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/NatureThumb.png",
+	"collections":"Abstract"
+	},
+  {
+	"name": "Emerald Elegane",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Emerald%20Elegance.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Emerald%20EleganceThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Sandstone",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Sandstone.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SandstoneThumb.png",
+	"collections":"Liquid"
+	},
 	  {
 	"name": "Draped",
 	"author": "Yash",
