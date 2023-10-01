@@ -1,4 +1,36 @@
 [
+	  {
+	"name": "Amber Glow",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber%20Glow.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Amber%20GlowThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Orchid Opulence",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Orchid%20Opulence.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Orchid%20OpulenceThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Rose",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Rose.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/RoseThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Monochrome",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Monochrome.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MonochromeThumb.png",
+	"collections":"Liquid"
+	},
   {
 	"name": "Glimmer",
 	"author": "Yash",
