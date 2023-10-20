@@ -1,5 +1,29 @@
 [
 	  {
+	"name": "Amber Waves",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber%20Waves.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Amber%20WavesThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Lilac",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Lilac.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/LilacThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Roseate",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Roseate.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/RoseateThumb.png",
+	"collections":"Liquid"
+	},
+	  {
 	"name": "Amber Glow",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber%20Glow.png",
