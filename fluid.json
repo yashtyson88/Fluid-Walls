@@ -1,5 +1,21 @@
 [
 	  {
+	"name": "Oceanic",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Oceanic.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/OceanicThumb.png",
+	"collections":"Texture"
+	},
+  {
+	"name": "Velvetine",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Velvetine.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VelvetineThumb.png",
+	"collections":"Liquid"
+	},
+	  {
 	"name": "Amber Waves",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Amber%20Waves.png",
