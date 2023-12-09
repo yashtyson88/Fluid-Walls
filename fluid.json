@@ -1,5 +1,45 @@
 [
 	  {
+	"name": "Suede",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Suede.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/SuedeThumb.png",
+	"collections":"Abstract"
+	},
+  {
+	"name": "Rosatta",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Rosatta.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/RosattaThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Pastellize",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Pastellize.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PastellizeThumb.png",
+	"collections":"Liquid"
+	},
+  {
+	"name": "Strata",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Strata.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/StrataThumb.png",
+	"collections":"Abstract"
+	},
+{
+	"name": "Cascade",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Cascade.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/CascadeThumb.png",
+	"collections":"Liquid"
+	},
+	  {
 	"name": "Oceanic",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Oceanic.png",
