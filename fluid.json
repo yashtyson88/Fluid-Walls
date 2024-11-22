@@ -1,5 +1,29 @@
 [
  {
+	"name": "Powder",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Powder.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/PowderThumb.png",
+	"collections":"Liquid"
+	},
+	 {
+	"name": "Marshy",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Marshy.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/MarshyThumb.png",
+	"collections":"Liquid"
+	},
+	 {
+	"name": "Algal Bloom",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Algal Bloom.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/Algal BloomThumb.png",
+	"collections":"Liquid"
+	},
+ {
 	"name": "Singing Dunes",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Singing Dunes.png",
