@@ -1,5 +1,21 @@
 [
  {
+	"name": "Azura",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Azura.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/AzuraThumb.png",
+	"collections":"Liquid"
+	},
+	 {
+	"name": "Verdant",
+	"author": "Yash",
+	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Verdant.png",
+	"copyright": "Personal Use",
+	"thumb":"https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Thumbnails/VerdantThumb.png",
+	"collections":"Liquid"
+	},
+ {
 	"name": "Snowy",
 	"author": "Yash",
 	"url": "https://raw.githubusercontent.com/yashtyson88/Fluid-Walls/master/Snowy.png",
